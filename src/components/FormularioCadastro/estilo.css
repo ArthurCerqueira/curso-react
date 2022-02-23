@@ -29,8 +29,8 @@
     font-size: 16px;
     border-radius: 4px;
     border: 2px solid #4CAF50;
-    -webkit-transition-duration: 0.4s; /* Safari */
-    transition-duration: 0.4s;
+    -webkit-transition-duration: 0.3s; /* Safari */
+    transition-duration: 0.3s;
     font-family: 'Montserrat', sans-serif;
   }
 
